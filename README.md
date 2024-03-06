@@ -14,6 +14,11 @@
 - Now you can access the api on http://localhost:8080
 
 ## API Functionality :
-- Let the user submit a reading interval of specific book :
+1- Let the user submit a reading interval of specific book :
 
 ![post](https://github.com/MahmoudAdelkamal/Reading-Recommender-System-api/assets/48772371/b687ae26-11ad-4fcf-8d41-372c6827fc2d)
+
+2- Return to the user the top 5 recommended books according to the number of unique read pages :
+![1](https://github.com/MahmoudAdelkamal/Reading-Recommender-System-api/assets/48772371/cf886932-23c7-4fae-a831-aed9836dde74)
+![2](https://github.com/MahmoudAdelkamal/Reading-Recommender-System-api/assets/48772371/ef740def-5392-4888-aa11-f7aa55020f63)
+![3](https://github.com/MahmoudAdelkamal/Reading-Recommender-System-api/assets/48772371/2d842744-d779-486e-9faa-199fc99c7893)
