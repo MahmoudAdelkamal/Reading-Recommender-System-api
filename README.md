@@ -2,6 +2,8 @@
 ## About :
 - A backend REST api for recommending books for reading depending on the number of unique read pages of each book.
 
+## Tools and concepts : 
+- Java, spring boot, postMan and mySQL.
 ## How to Use it locally? :
 - Install the project.
 - follow this path to reach the jar file : 4) Spring boot Rest CRUD Api\crud\target.
