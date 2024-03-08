@@ -3,7 +3,7 @@
 - A backend REST api for recommending books for reading depending on the number of unique read pages of each book.
 
 ## Tools and concepts : 
-- Java spring boot, postMan and mySQL.
+- Java, spring boot, postMan and mySQL.
 ## How to Use it locally? :
 - Install the project.
 - Install MYSQL workbench
